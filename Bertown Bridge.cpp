@@ -43,8 +43,7 @@ int main() {
         adj[b].pb(a);
     }
     dfs(1,-1);
-    /*cout<<"sfjj;
-	    //sapm*/
+    
     if(l==1){
         cout<<"0";
     }
